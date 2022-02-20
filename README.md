@@ -81,7 +81,7 @@ Click Lilly-Mwol logo to Join Support Group 2ðŸ‘‡
   
 [![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@pikachucreator/pikachu-QR)
 
-[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/Carlox-ser-mass-ser/Lilly-mwol.git)
+[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/mythzorro/Lilly-mwol)
      </div>
 <br>
 <br >
